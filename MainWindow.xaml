@@ -1,0 +1,17 @@
+﻿<Window x:Class="pendulum.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Loaded="OnLoaded">
+    <Grid>
+        <Button Name="ToggleRunningButton" Content="Start" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="OnToggleRunning"/>
+        <Label Content="Interfaces" HorizontalAlignment="Left" Margin="246,7,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="DeviceListComboBox" HorizontalAlignment="Left" Margin="307,10,0,0" VerticalAlignment="Top" Width="120" />
+        <Button Name="RefreshDeviceListButton" Click="OnRefreshDeviceList" Content="Refresh" HorizontalAlignment="Left" Margin="432,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Data" HorizontalAlignment="Left" Margin="10,43,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="PacketList" HorizontalAlignment="Left" Height="235" Margin="10,74,0,0" VerticalAlignment="Top" Width="497"/>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\src\ServTK\pendulum\bin\Debug\pendulum.exe.config
+D:\src\ServTK\pendulum\bin\Debug\pendulum.exe
+D:\src\ServTK\pendulum\bin\Debug\pendulum.pdb
+D:\src\ServTK\pendulum\bin\Debug\PacketDotNet.xml
+D:\src\ServTK\pendulum\bin\Debug\SharpPcap.xml
+D:\src\ServTK\pendulum\obj\Debug\pendulum.csprojResolveAssemblyReference.cache
+D:\src\ServTK\pendulum\obj\Debug\MainWindow.baml
+D:\src\ServTK\pendulum\obj\Debug\MainWindow.g.cs
+D:\src\ServTK\pendulum\obj\Debug\App.g.cs
+D:\src\ServTK\pendulum\obj\Debug\pendulum_MarkupCompile.cache
+D:\src\ServTK\pendulum\obj\Debug\pendulum.g.resources
+D:\src\ServTK\pendulum\obj\Debug\pendulum.Properties.Resources.resources
+D:\src\ServTK\pendulum\obj\Debug\pendulum.csproj.GenerateResource.Cache
+D:\src\ServTK\pendulum\obj\Debug\pendulum.exe
+D:\src\ServTK\pendulum\obj\Debug\pendulum.pdb
